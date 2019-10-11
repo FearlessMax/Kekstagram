@@ -1,6 +1,6 @@
 # Личный проект «Кекстаграм» [![Build status][travis-image]][travis-url]
 
-* Студент: [Максим Дружинин](https://up.htmlacademy.ru/javascript/18/user/200558).
+* Студент: [Максим Дружинин].
 * Наставник: `Нет`.
 
 ---
